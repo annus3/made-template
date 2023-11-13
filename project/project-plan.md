@@ -2,7 +2,7 @@
 
 ## Title
 <!-- Give your project a short title. -->
-Awesome MADE project.
+Telcom Customer Churn For MADE project.
 
 ## Main Question
 
