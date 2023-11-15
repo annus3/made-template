@@ -31,12 +31,6 @@ This dataset contains information on client age, total ad purchases, account man
 
 <!-- List of work packages ordered sequentially, each pointing to an issue with more details. -->
 This project is divided into several work packages, each of which is described as a milestone in the GitHub repository. Each work package contains at least one issue, which is organized as follows:
-1. Dependent on (Optional)
-    - ...
-2. Tasks
-    - ...
-3. Deliverables
-    - ...
 
 1. Exploration and Preprocessing of Data
 • Conduct a preliminary examination of the customer churn dataset.
