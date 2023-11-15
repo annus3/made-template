@@ -8,8 +8,8 @@ Predicting Customer Churn for Optimized Account Management For MADE project.
 
 <!-- Think about one main question you want to answer based on the data. -->
 1. What variables most substantially contribute to customer churn in the marketing agency's client base, and how can this data be used to design effective retention strategies?
-2. Can we accurately predict customer churn based on historical data?
-3. What characteristics have the most influence in predicting client churn?
+  >  Can we accurately predict customer churn based on historical data?
+  >  What characteristics have the most influence in predicting client churn?
 
 ## Description
 
