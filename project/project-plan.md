@@ -39,28 +39,25 @@ This combined dataset compiles player statistics from both the Premier League an
 This project is divided into several work packages, each of which is described as a milestone in the GitHub repository, which is organized as follows:
 
 Work Package 1: Project Setup and Data Collection
-* Define project scope, objectives, and main research questions [issue]
-* Identify, assess, and obtain necessary permissions for data sources [issue]
+* Define project scope, objectives, and main research questions.
+* Identify, assess, and obtain necessary permissions for data sources.
  
 Work Package 2: Data Preparation 
-* Clean, merge, and standardize datasets from Premier League and La Liga [issue]
-* Ensure data consistency, accuracy, and suitability for analysis [issue]
+* Clean, merge, and standardize datasets from Premier League and La Liga.
+* Ensure data consistency, accuracy, and suitability for analysis.
  
 Work Package 3: Exploratory Data Analysis (EDA)
-* Conduct exploratory data analysis and visualize player statistics [issue]
-* Assess the relevance of data to answer research questions [issue] 
+* Conduct exploratory data analysis and visualize player statistics.
+* Assess the relevance of data to answer research questions.
 
 Work Package 4: Data Analysis and Model Development 
-* Implement machine learning models for positional goal forecasting [issue]
-* Analyze factors influencing goal-scoring patterns [issue] 
+* Implement machine learning models for positional goal forecasting.
+* Analyze factors influencing goal-scoring patterns.
 
 Work Package 5: Evaluation and Reporting 
-* Evaluate model performance and analyze results [issue]
-*  Generate visualizations, reports, and document findings [issue] 
+* Evaluate model performance and analyze results.
+*  Generate visualizations, reports, and document findings.
 
 Work Package 6: Finalization and Presentation 
-* Enhance repository presentation, documentation, and final project summary [issue]
-* Create a comprehensive final presentation for the MADE project [issue] 
-
-Notes: These critical work packages ensure a sequential workflow from data collection to final presentation, focusing on essential tasks to achieve the project's objectives. Each stage is pivotal for advancing to the subsequent phase, ensuring a methodical and comprehensive analysis without unnecessary.
+* Enhance presentation and final project report summary.
 
