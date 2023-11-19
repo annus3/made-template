@@ -38,15 +38,15 @@ This combined dataset compiles player statistics from both the Premier League an
 <!-- List of work packages ordered sequentially, each pointing to an issue with more details. -->
 This project is divided into several work packages, each of which is described as a milestone in the GitHub repository, which is organized as follows:
 
-Work Package 1: Project Setup and Data Collection
+Work Package 1: Project Setup and Data Collection #1
 * Define project scope, objectives, and main research questions.
 * Identify, assess, and obtain necessary permissions for data sources.
  
-Work Package 2: Data Preparation 
+Work Package 2: Data Preparation
 * Clean, merge, and standardize datasets from Premier League and La Liga.
 * Ensure data consistency, accuracy, and suitability for analysis.
  
-Work Package 3: Exploratory Data Analysis (EDA)
+Work Package 3: Exploratory Data Analysis (EDA) 
 * Conduct exploratory data analysis and visualize player statistics.
 * Assess the relevance of data to answer research questions.
 
