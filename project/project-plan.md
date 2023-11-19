@@ -38,23 +38,23 @@ This combined dataset compiles player statistics from both the Premier League an
 <!-- List of work packages ordered sequentially, each pointing to an issue with more details. -->
 This project is divided into several work packages, each of which is described as a milestone in the GitHub repository, which is organized as follows:
 
-Work Package 1: Project Setup and Data Collection #1
+Work Package 1: Project Setup and Data Collection [#WP-1](https://github.com/annus3/made-template/issues/1#issue-2001007077)
 * Define project scope, objectives, and main research questions.
 * Identify, assess, and obtain necessary permissions for data sources.
  
-Work Package 2: Data Preparation
+Work Package 2: Data Preparation [WP2-2](https://github.com/annus3/made-template/issues/2#issue-2001007392)
 * Clean, merge, and standardize datasets from Premier League and La Liga.
 * Ensure data consistency, accuracy, and suitability for analysis.
  
-Work Package 3: Exploratory Data Analysis (EDA) 
+Work Package 3: Exploratory Data Analysis (EDA) [WP-3](https://github.com/annus3/made-template/issues/3#issue-2001007627)
 * Conduct exploratory data analysis and visualize player statistics.
 * Assess the relevance of data to answer research questions.
 
-Work Package 4: Data Analysis and Model Development 
+Work Package 4: Data Analysis and Model Development [WP-4](https://github.com/annus3/made-template/issues/4#issue-2001007815)
 * Implement machine learning models for positional goal forecasting.
 * Analyze factors influencing goal-scoring patterns.
 
-Work Package 5: Evaluation and Reporting 
+Work Package 5: Evaluation and Reporting [WP-5](https://github.com/annus3/made-template/issues/5#issue-2001008028)
 * Evaluate model performance and analyze results.
 *  Generate visualizations, reports, and document findings.
 
