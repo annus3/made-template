@@ -62,5 +62,5 @@ Work Package 6: Finalization and Presentation
 * Enhance repository presentation, documentation, and final project summary [issue]
 * Create a comprehensive final presentation for the MADE project [issue] 
 
-Notes: These critical work packages ensure a sequential workflow from data collection to final presentation, focusing on essential tasks to achieve the project's objectives. Each stage is pivotal for advancing to the subsequent phase, ensuring a methodical and comprehensive analysis without unnecessary o
+Notes: These critical work packages ensure a sequential workflow from data collection to final presentation, focusing on essential tasks to achieve the project's objectives. Each stage is pivotal for advancing to the subsequent phase, ensuring a methodical and comprehensive analysis without unnecessary.
 
