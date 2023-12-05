@@ -7,8 +7,8 @@ Positional Goal Forecasting: Comparative Analysis in Premier League and La Liga 
 ## Main Question
 
 <!-- Think about one main question you want to answer based on the data. -->
-1. What are the primary contributing factors to the highest number of goals scored from specific positions in both the Premier League and La Liga? 
-2. Which specific playing positions tend to score the most goals in each league? How do factors like player attributes, team tactics, or match situations impact goal-scoring from different positions?
+1. Which specific playing positions tend to score the most goals in both the Premier League and La Liga? 
+2. Which features are helpful in predicting number of goals in both the leagues?
 
 
 ## Description
