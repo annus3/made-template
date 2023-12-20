@@ -6,6 +6,10 @@ on:
     branches:
     - main
 
+env:
+  KAGGLE_USERNAME: $KAGGLE_USERNAME
+  KAGGLE_KEY: $KAGGLE_KEY
+
 jobs:
   Automated_Testing_CI:
     runs-on: ubuntu-latest
