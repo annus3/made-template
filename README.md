@@ -21,7 +21,7 @@ This combined dataset compiles player statistics from both the Premier League an
 
 ## Methodology
 
-In this project we employed Machine learning algorithms and statistical analysis to analyze the datasets and draw insights into the factors influencing goal score forcasting in both the leagues. 
+In this project we employed Machine learning algorithms and statistical analysis to analyze the datasets and draw insights into the elements that influence goal scoring forcasting in both leagues. 
 
 ## Project report
 
